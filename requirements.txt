@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+python-multipart
+requests
+streamlit
+langchain
+langchain-community
+langchain-ollama
+langchain-chroma
+chromadb
+pypdf
+python-dotenv
+passlib[argon2]
+email-validator
+docx2txt
+openpyxl
+pandas
